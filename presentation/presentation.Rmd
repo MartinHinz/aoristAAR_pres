@@ -1,9 +1,9 @@
 ---
-title: "Classifying vessel shapes using automated shape extraction and unsupervised classification"
-subtitle: Extraction, analysis and classification of (not only) archaeological objects from scanned images
-author: "Martin Hinz^1^, Caroline Heitz^2^"
+title: "Aoristic research in R"
+subtitle: Correcting temporal categorizations in archaeology
+author: "Nils Müller-Scheeßel, Martin Hinz"
 date: "March 2018"
-institute: 1. Institute of Pre- and Protohistoric Archaeology, Kiel University; 2. Institut für Archäologische Wissenschaften, Bern University
+institute: Institute of Pre- and Protohistoric Archaeology, Kiel University
 fontsize: 9pt
 output:
   beamer_presentation:
@@ -23,36 +23,18 @@ knitr::knit_hooks$set(chunk = function(x, options) {
 })
 ```
 
-# Motivation
+# Heading 1
 
-## Vessel shape and typology
-
-## Available Approaches
-
-# Shape Extraction
-
-## 'by hand'
-
-## Adaptive Contour
-
-# Shape Analysis
-
-## PCA & hclust
-
-## t-sne & hdbscan
-
-# Case studies
-
-## Bell Beakers of the Iberian Peninsula
-
-## Neolithic Swiss Ceramic
+## Heading 2
 
 ## Thank you
+
+![Nils](../images/nils.jpg){ width=33px }
+**Nils Müller-Scheeßel**                   
+nils.mueller-scheessel@ufg.uni-kiel.de  
+
+
+
 ![Martin](../images/martin.png){ width=33px }
 **Martin Hinz**              
 martin.hinz@ufg.uni-kiel.de
-
-![Caroline](../images/CarolineHeitz.jpg){ width=33px }
-**Caroline Heitz**                   
-caroline.heitz@iaw.unibe.ch  
-
