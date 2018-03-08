@@ -1,4 +1,4 @@
-# shapAAR_pres
+# aoristAAR_pres
 Abstract for CAA 2018
 
 Aoristic research in R: Correcting temporal categorizations in archaeology
