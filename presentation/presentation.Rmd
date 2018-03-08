@@ -1,0 +1,58 @@
+---
+title: "Classifying vessel shapes using automated shape extraction and unsupervised classification"
+subtitle: Extraction, analysis and classification of (not only) archaeological objects from scanned images
+author: "Martin Hinz^1^, Caroline Heitz^2^"
+date: "March 2018"
+institute: 1. Institute of Pre- and Protohistoric Archaeology, Kiel University; 2. Institut für Archäologische Wissenschaften, Bern University
+fontsize: 9pt
+output:
+  beamer_presentation:
+    theme: "metropolis"
+fig_caption: yes
+header-includes:
+  - \titlegraphic{\begin{flushright}\includegraphics[width=.3\textwidth]{../images/logos/isaak_with_text.png}\end{flushright}\hfill}
+  - \metroset{sectionpage=progressbar}
+---
+
+```{r, echo = FALSE}
+# https://stackoverflow.com/questions/25646333/code-chunk-font-size-in-rmarkdown-with-knitr-and-latex
+def.chunk.hook  <- knitr::knit_hooks$get("chunk")
+knitr::knit_hooks$set(chunk = function(x, options) {
+  x <- def.chunk.hook(x, options)
+  ifelse(options$size != "normalsize", paste0("\\", options$size,"\n\n", x, "\n\n \\normalsize"), x)
+})
+```
+
+# Motivation
+
+## Vessel shape and typology
+
+## Available Approaches
+
+# Shape Extraction
+
+## 'by hand'
+
+## Adaptive Contour
+
+# Shape Analysis
+
+## PCA & hclust
+
+## t-sne & hdbscan
+
+# Case studies
+
+## Bell Beakers of the Iberian Peninsula
+
+## Neolithic Swiss Ceramic
+
+## Thank you
+![Martin](../images/martin.png){ width=33px }
+**Martin Hinz**              
+martin.hinz@ufg.uni-kiel.de
+
+![Caroline](../images/CarolineHeitz.jpg){ width=33px }
+**Caroline Heitz**                   
+caroline.heitz@iaw.unibe.ch  
+
