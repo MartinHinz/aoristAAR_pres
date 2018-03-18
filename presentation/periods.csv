@@ -1,0 +1,53 @@
+id,name,from,to,lft,rgt
+2,Frühgeschichte,400,799,3,4
+3,Mittelalter,800,1499,7,8
+4,Neuzeit,1500,2009,5,6
+5,Steinzeit,,,30,103
+6,Bronzezeit,,,9,22
+7,Eisenzeit,,,23,28
+8,Paläolithikum,-13700,-8001,31,46
+9,Mesolithikum,,,47,58
+10,Neolithikum,,,59,102
+11,Kerbspitzen-Gruppen,,,32,35
+12,Federmesser-Gruppen,,,36,39
+13,Stielspitzen-Gruppen,,,40,45
+14,Hamburger Komplex,-13700,-12201,33,34
+15,Federmesser-Komplex,-12000,-10801,37,38
+16,Bromme-Komplex,-11400,-10501,41,42
+17,Ahrendsburger Komplex,-10800,-9601,43,44
+18,Maglemose-Komplex,-8000,-6001,48,49
+19,Kongemose-Komplex,-6400,-5401,50,51
+20,Duvenseer Stufe,-7000,-5801,52,53
+21,Oldesloer Stufe,-6000,-5001,54,55
+22,Ertebølle-Komplex,-5400,-4101,56,57
+23,Trichterbecher-Komplex,,,60,81
+24,Einzelgrab-Komplex,,,82,89
+25,Spätneolithikum,,,90,95
+26,Frühneolithikum,,,61,70
+27,Mittelneolithikum,,,71,80
+28,FN I,,,62,67
+29,FN II,-3500,-3301,68,69
+30,MN I,-3300,-3101,72,73
+31,MN II,-3100,-3001,74,75
+32,MN III-IV,-3000,-2901,76,77
+33,MN V (Kugelamphoren-Komplex),-2900,-2801,78,79
+34,FN Ia,-4100,-3801,63,64
+35,FN Ib,-3800,-3501,65,66
+36,EGK I,-2800,-2601,83,84
+37,EGK II,-2600,-2401,85,86
+38,EGK III,-2400,-2201,87,88
+39,Glockenbecher-Komplex,-2600,-2001,91,92
+40,Dolchzeit,-2200,-1701,93,94
+41,BRZ I,-1700,-1501,10,11
+42,BRZ II,-1500,-1301,12,13
+43,BRZ III,-1300,-1101,14,15
+44,BRZ IV,-1100,-951,16,17
+45,BRZ V,-950,-721,18,19
+46,BRZ VI,-720,-551,20,21
+47,Vorrömische Eisenzeit,-550,-1,24,25
+48,Kaiserzeit,0,399,26,27
+49,Metallzeiten,,,2,29
+50,Wurzel,,,1,104
+51,NBP II,-3800,-3101,96,97
+52,NBP III,-3100,-2401,98,99
+53,NBP I,-4100,-3801,100,101
