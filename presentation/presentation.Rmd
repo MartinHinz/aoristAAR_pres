@@ -69,17 +69,26 @@ library(archSeries)
 
 ## What is aoristic?
 
-![Principle of aoristic analysis (Mischka 2004)](../images/aorist_mischka.png){ width=50%}
+> "An aoristic analysis allows for spatially referenced objects such as geocoded crime locations to be weighted spatially according to a probability estimate. The term aoristic, one of the past tenses of the Greek verb aorist, denotes a past occurrence, with none of the limitations of other past tenses.“ -- Ratcliffe 2002, 27
 
-- Widespread and intuitive tool
+\bigskip
+
+> 'the aorist is a class of verb forms that generally portray a situation as simple or undefined' -- Wikipedia
+
+## What is aoristic?
+
+![Principle of aoristic analysis (Mischka 2004, originally Ratcliffe 2000, 671 Fig. 1)](../images/aorist_mischka.png){ width=50%}
+
 - Production of time series from a collection of evidence with start and end date
   - in arch. situation (estimation of eg. site abundancy per time slice), these are mostly typological phases (based on typochronological artefacts)
   - in anthropological cases (estimation of eg. age distribuition), these are mostly individuals with anthropological age determination
+- Widespread and intuitive tool
 
 ## Aoristics in arch. applications
 
 - background for a lot of archaeological reasoning without proper reference to the method
-- earliest explicit application in archaeology (to the best of my knowledge):
+- earliest explicit applications in archaeology:
+  - [Johson 2004](http://dx.doi.org/10.15496/publikation-2085)
   - [Mischka 2004](https://doi.org/10.11588/ai.2004.2.12685)
 - recently reference eg. by:
   - [Crema 2012](https://link.springer.com/article/10.1007/s10816-011-9122-3)
@@ -98,8 +107,7 @@ library(archSeries)
 
 ![Principle of aoristic analysis (Mischka 2004)](../images/aorist_mischka.png){ width=50%}
 
-- ideal world: ordinal scales „involve discrete non-
-overlapping categories“ (Byers 2017, 15)
+- ideal world: ordinal scales „involve discrete non-overlapping categories“ (Byers 2017, 15)
 - reality, due to fragmentary nature of data:
   - archaeological phasing is most often neither exclusive nor non-overlapping
   - anthropological age categories show different grades of resolution
